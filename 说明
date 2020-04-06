@@ -1,0 +1,9 @@
+config:浏览器类型
+case:存放用例
+data:经常变动的数据
+logs:日志
+page:页面相关内容
+report:记录用例报告
+screenshots:试跑日志截图
+util:相关方法
+tools:浏览器驱动文件
